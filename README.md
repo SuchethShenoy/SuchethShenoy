@@ -1,7 +1,8 @@
 ### Hey there! 👋
 
+I'm pursuing MSc. Mechatronics at Hamburg University of Technology (TUHH), Germany. <br>
 I'm a Mechanical Engineering undergraduate from RV College of Engineering, Bangalore. <br>
-Currently working at BOSCH Limited, India.
+Formerly working at BOSCH Limited, India.
 
 - 🤖 Robotics and automation.
 - 🎹 Learning to play the piano.
